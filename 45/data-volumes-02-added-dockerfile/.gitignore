@@ -1,0 +1,4 @@
+node_modules
+feedback/*
+pacakage-lock.json
+.DS_Store
