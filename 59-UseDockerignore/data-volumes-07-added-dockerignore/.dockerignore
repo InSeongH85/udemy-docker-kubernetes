@@ -1,0 +1,5 @@
+# gitignore 와 같은 개념으로 보기
+# 아래 폴더 및 파일들은 COPY 로 복사되지 않는다.
+node_modules
+Dockerfile
+.git
